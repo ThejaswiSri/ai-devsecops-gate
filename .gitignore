@@ -1,0 +1,17 @@
+# Python Virtual Environments
+venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Linter & Scanner Caches
+.ruff_cache/
+.bandit
+
+# Environment Variables & Keys
+.env
+*.key
